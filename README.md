@@ -1,2 +1,0 @@
-# wardrobe
-Automated Clothing System
